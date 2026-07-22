@@ -152,3 +152,6 @@ Our predictive models are trained on real hourly Delhi data spanning 2024-2026:
 3. **Advisory Agent**: Feeds prediction values, SHAP attributions, and local station context to **Gemini 2.5 Flash**, returning structured JSON containing policy guidelines and bilingual citizen bulletins.
 
 ---
+
+## 🚀 Setup & Execution
+Please refer to the [SETUP.md](SETUP.md) for step-by-step installation instructions.
